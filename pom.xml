@@ -123,12 +123,19 @@
 		</profile>
 	</profiles>
 
+	<inceptionYear>2015</inceptionYear>
+
 	<licenses>
 		<license>
 			<name>Apache License 2.0</name>
 			<url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
 		</license>
 	</licenses>
+
+	<organization>
+		<name>SDL</name>
+		<url>http://sdl.io</url>
+	</organization>
 
 	<developers>
 		<developer>
