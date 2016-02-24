@@ -67,7 +67,7 @@
 		<url>https://github.com/sdl/oss-parent.git</url>
 		<connection>scm:git:https://github.com/sdl/oss-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:sdl/oss-parent.git</developerConnection>
-	  <tag>v1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<profiles>
