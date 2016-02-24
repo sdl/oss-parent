@@ -134,14 +134,14 @@
 
 	<organization>
 		<name>SDL</name>
-		<url>http://sdl.io</url>
+		<url>http://sdl.github.io/</url>
 	</organization>
 
 	<developers>
 		<developer>
-			<id>nobeh</id>
-			<email>bnobakht@sdl.com</email>
-			<name>Behrooz Nobakht</name>
+			<id>renarj</id>
+			<email>rdevries@sdl.com</email>
+			<name>Renze de Vries</name>
 			<timezone>+1</timezone>
 		</developer>
 	</developers>
