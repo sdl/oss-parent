@@ -1,0 +1,13 @@
+.classpath
+.project
+.checkstyle
+*.iml
+.idea
+.flattened-pom.xml
+.settings/
+target/
+classes/
+src/test/java/META-INF/
+**/*.suo
+release.properties
+*.releaseBackup
