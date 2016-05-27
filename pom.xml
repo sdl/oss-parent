@@ -4,7 +4,7 @@
 
 	<groupId>com.sdl.oss</groupId>
 	<artifactId>oss-parent</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>SDL Open Source Parent POM</name>
 
